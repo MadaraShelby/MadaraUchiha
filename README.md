@@ -36,15 +36,8 @@ This bot is an open-source project developed by fans and is not officially affil
 
 ## Clone
 
-<a href="https://t.me/MadaraUchiha_xBot">
-  <div style="position: relative; display: inline-block;">
-    <img src="https://te.legra.ph/file/010697905d57f0fe3af38.jpg" alt="Telegram Image" width="100px">
-    <div style="position: absolute; bottom: 0; left: 0; background-color: rgba(0, 0, 0, 0.7); color: white; padding: 5px;">
-      Madara Uchiha
-    </div>
-  </div>
-</a>
-<h2>  ᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 🚀</h2> 
-ᴛʜᴇ ᴇᴀsɪᴇsᴛ ᴡᴀʏ ᴛᴏ ᴅᴇᴘʟᴏʏ  ɢʀᴏᴜᴘ ᴄᴏɴᴛʀᴏʟʟᴇʀ 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/tinaarobot/Avisha"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-0000FF?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
- ━━━━━━━━━━━━━━━━━━━━━━
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
+</h3>
+
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/MadaraShelby/MadaraUchiha"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="520" height="138.45"/></a></p>
